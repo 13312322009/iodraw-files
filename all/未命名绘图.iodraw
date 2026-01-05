@@ -7,6 +7,57 @@
         <mxCell id="Czxr4v_P1aTHoDZOsgfN-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" parent="1" vertex="1">
           <mxGeometry x="1470" y="200" width="116" height="86.5" as="geometry" />
         </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-1" value="监控系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1735" y="310" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-2" value="监控球机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="409" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-3" value="监控枪机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1644" y="409" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-4" value="执法记录仪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1818" y="409" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-5" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2008" y="409" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-6" value="WEB用户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1992" y="507" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1532" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1706" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1888" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2062" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka4CGsdgvANkalk1s6-v-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-5" target="ka4CGsdgvANkalk1s6-v-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
