@@ -10,7 +10,7 @@
         <mxCell id="Czxr4v_P1aTHoDZOsgfN-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
           <mxGeometry x="1470" y="200" width="116" height="86.5" as="geometry" />
         </mxCell>
-        <mxCell id="Czxr4v_P1aTHoDZOsgfN-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.video_conversation;" vertex="1" parent="1">
+        <mxCell id="Czxr4v_P1aTHoDZOsgfN-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.video_conversation;rotation=-5;" vertex="1" parent="1">
           <mxGeometry x="150" y="205" width="30" height="15" as="geometry" />
         </mxCell>
       </root>
