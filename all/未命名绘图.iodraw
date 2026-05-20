@@ -1,59 +1,59 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1211" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="Czxr4v_P1aTHoDZOsgfN-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" parent="1" vertex="1">
           <mxGeometry x="1470" y="200" width="116" height="86.5" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-1" value="监控系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-1" value="监控系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1670" y="120" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-2" value="监控球机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-2" value="监控球机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1470" y="409" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-3" value="监控枪机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-3" value="监控枪机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1644" y="409" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-4" value="执法记录仪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-4" value="执法记录仪" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1818" y="409" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-5" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-5" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2008" y="409" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-6" value="WEB用户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-6" value="WEB用户端" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1992" y="507" width="139" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-2">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1532" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-3">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1706" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-4">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1888" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-5">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="ka4CGsdgvANkalk1s6-v-1" target="ka4CGsdgvANkalk1s6-v-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2062" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ka4CGsdgvANkalk1s6-v-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ka4CGsdgvANkalk1s6-v-5" target="ka4CGsdgvANkalk1s6-v-6">
+        <mxCell id="ka4CGsdgvANkalk1s6-v-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="ka4CGsdgvANkalk1s6-v-5" target="ka4CGsdgvANkalk1s6-v-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
